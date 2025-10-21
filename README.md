@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Steven
 
 <!--
 **Stev06/Stev06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm currently studing CS and the University of Toronto. 
+
+Right now, I'm working on a webgame called Anime Higher or Lower.
